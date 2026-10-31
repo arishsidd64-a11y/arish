@@ -35,7 +35,7 @@ export function Hero() {
           </h1>
 
           <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-foreground/75 text-pretty">
-            A BAMS 2nd year student with a deep interest in Ayurveda, healthcare and technology. Thank you for
+            A BAMS student with a deep interest in Ayurveda, healthcare and technology. Thank you for
             visiting &mdash; I&apos;m glad you&apos;re here to learn a little more about me and my journey.
           </p>
 
@@ -58,7 +58,7 @@ export function Hero() {
           <ul className="mt-10 flex flex-wrap gap-x-6 gap-y-3 text-sm text-ink-foreground/70">
             <li className="flex items-center gap-2">
               <GraduationCap className="size-4 text-accent" aria-hidden="true" />
-              BAMS &middot; 2nd Year
+              BAMS Student
             </li>
             <li className="flex items-center gap-2">
               <MapPin className="size-4 text-accent" aria-hidden="true" />
@@ -99,8 +99,8 @@ export function Hero() {
                   <p className="mt-1 font-semibold">BAMS</p>
                 </div>
                 <div className="rounded-2xl border border-white/10 bg-white/5 p-4 backdrop-blur">
-                  <p className="text-ink-foreground/60">Year</p>
-                  <p className="mt-1 font-semibold">2nd Year</p>
+                  <p className="text-ink-foreground/60">Status</p>
+                  <p className="mt-1 font-semibold">Student</p>
                 </div>
               </div>
             </div>

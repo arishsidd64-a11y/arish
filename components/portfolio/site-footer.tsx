@@ -22,7 +22,7 @@ export function SiteFooter() {
             <span className="font-serif text-lg font-semibold">Mohd Arish Siddiqui</span>
           </div>
           <p className="mt-4 max-w-sm leading-relaxed text-ink-foreground/65">
-            BAMS 2nd year student with an interest in Ayurveda, healthcare and technology.
+            BAMS student with an interest in Ayurveda, healthcare and technology.
           </p>
         </div>
 

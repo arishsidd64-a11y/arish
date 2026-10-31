@@ -39,8 +39,8 @@ export function About() {
 
         <Reveal delay={150} className="space-y-5 text-lg leading-relaxed text-muted-foreground">
           <p>
-            My name is <strong className="font-semibold text-foreground">Mohd Arish Siddiqui</strong>, and I am
-            currently in the 2nd year of my BAMS (Bachelor of Ayurvedic Medicine and Surgery) programme. I am from
+            My name is <strong className="font-semibold text-foreground">Mohd Arish Siddiqui</strong>, and I am a
+            BAMS (Bachelor of Ayurvedic Medicine and Surgery) student. I am from
             Muzaffarnagar, Uttar Pradesh, India.
           </p>
           <p>

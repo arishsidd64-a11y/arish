@@ -9,7 +9,7 @@ const fraunces = Fraunces({ subsets: ['latin'], variable: '--font-fraunces' })
 export const metadata: Metadata = {
   title: 'Mohd Arish Siddiqui | BAMS Student Portfolio',
   description:
-    'Personal portfolio of Mohd Arish Siddiqui, a BAMS 2nd year student from Muzaffarnagar, Uttar Pradesh, India, passionate about Ayurveda, healthcare and technology.',
+    'Personal portfolio of Mohd Arish Siddiqui, a BAMS student from Muzaffarnagar, Uttar Pradesh, India, passionate about Ayurveda, healthcare and technology.',
   generator: 'v0.app',
   icons: {
     icon: [

@@ -6,7 +6,7 @@ const education = [
   {
     icon: GraduationCap,
     status: 'Currently Pursuing',
-    title: 'BAMS — 2nd Year',
+    title: 'BAMS Student',
     subtitle: 'Bachelor of Ayurvedic Medicine and Surgery',
     text: 'Studying the principles of Ayurveda along with modern medical sciences as part of my undergraduate programme.',
     current: true,
